@@ -1,0 +1,16 @@
+#frame {
+	background: #247;
+	width: 505px;
+	height: 162px;
+	margin: 30px auto;
+	border: 6px solid #DDD;
+}
+.rec {
+	background: #FFF;
+	opacity: 0.4;
+	width: 100px;
+	height: 80px;
+	float: left;
+	margin: 0 1px 1px 0;
+}
+
